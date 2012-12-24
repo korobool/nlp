@@ -9,12 +9,14 @@ public class LemmatizerModel {
 
     private double compressionAspect = 1;
 
-    private boolean collectMode;
-
     private static final Pattern RUSSIAN_WORD = Pattern.compile("[А-Яа-я-]+"); //[\p{IsCyrillic}]
 
     private final Map tree = new TreeMap<Character, Object>();
-    private ArrayList<String> lemmas = new ArrayList<String>();
+    private int lemmasCount = 0;
+
+    // It would be great to store lemmas strings in special container, but Java supports string pools.
+    // Resulting logic will be based on string pool automatically.
+    // private ArrayList<String> lemmas = new ArrayList<String>();
 
     public void addWordForm(String wordForm, String lemma) {
 
@@ -36,7 +38,7 @@ public class LemmatizerModel {
             }
         }
 
-        int lemmaIndex = getLemmaIndex(lemma);
+        // int lemmaIndex = getLemmaIndex(lemma);
 
         // Check is there any lemma for this path and add it if it doesn't exist
 
@@ -60,24 +62,20 @@ public class LemmatizerModel {
 
     }
 
-    private int getLemmaIndex(String lemma) {
-
-        int lemmaIndex = lemmas.indexOf(lemma);
-
-        if (lemmaIndex < 0)  {
-            lemmas.add(lemma);
-            lemmaIndex = getLemmaIndex(lemma); // to make it fast we can optimize search from O(n) to O(log(N))
-        }
-        return lemmaIndex;
-    }
+//    private int getLemmaIndex(String lemma) {
+//
+//        int lemmaIndex = lemmas.indexOf(lemma);
+//
+//        if (lemmaIndex < 0)  {
+//            lemmas.add(lemma);
+//            lemmaIndex = getLemmaIndex(lemma); // to make it fast we can optimize search from O(n) to O(log(N))
+//        }
+//        return lemmaIndex;
+//    }
 
     private boolean is_valid(String line) {
         if (line == null || line.length() < 1)
             return false;
-        // Russian symbols сan be verified here
-
-        //Matcher m = RUSSIAN_WORD.matcher(line).matches();
-
         return RUSSIAN_WORD.matcher(line).matches();
     }
 
@@ -91,7 +89,7 @@ public class LemmatizerModel {
 
             Map<Character, Object> next_node = (Map)node.get(word.charAt(index));
             if (next_node != null) {
-                if (this.collectMode == true) {
+                if (this.lemmasCount > 0) {
                     ArrayList<String> l = (ArrayList<String>)node.get('#');
                     if (l != null) {
                         word_lemmas.addAll((ArrayList<String>)node.get('#'));
@@ -109,6 +107,15 @@ public class LemmatizerModel {
             word_lemmas.addAll((ArrayList<String>)node.get('#'));
         };
 
+        if (this.lemmasCount != 0 ) {
+            ArrayList<String> tail = new ArrayList<String>();
+            int index = word_lemmas.size() - 1;
+            for (int i = index; index - index <= this.lemmasCount &&  i > 0; i--) {
+                tail.add(word_lemmas.get(i));
+            }
+            return tail;
+        }
+
         return word_lemmas;
     }
 
@@ -119,11 +126,11 @@ public class LemmatizerModel {
         this.compressionAspect = compressionAspect;
 
         if (compressionAspect < 1.0) {
-            this.setCollectMode(true);
+            this.setCollectMode(0);
         }
     }
 
-    public void setCollectMode(boolean collectMode) {
-        this.collectMode = collectMode;
+    public void setCollectMode(int lemmasCount) {
+        this.lemmasCount = lemmasCount;
     }
 }

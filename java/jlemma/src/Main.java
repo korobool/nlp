@@ -1,4 +1,5 @@
 import WordNormalizer.LemmatizerModel;
+import WordNormalizer.RussianPorterStemmer;
 import WordNormalizer.TrainDataParser;
 
 import java.io.IOException;
@@ -17,11 +18,11 @@ public class Main {
         LemmatizerModel lemmatizer = new LemmatizerModel();
 
         // According to task we have to provide a way how to pack the size of model
-        lemmatizer.setCompressionAspect(1);
-        lemmatizer.setCollectMode(false);
+        lemmatizer.setCompressionAspect(1.0);
+        lemmatizer.setCollectMode(1);
 
         // Optional stemmer can be used for cases when model couldn't find any lemma
-        // RussianPorterStemmer stemmer = new RussianPorterStemmer();
+        RussianPorterStemmer stemmer = new RussianPorterStemmer();
 
         new TrainDataParser().LoadData(args[0], lemmatizer);
 
@@ -37,7 +38,7 @@ public class Main {
             else {
                 System.out.print("Unknown word.");
                 // Optional thing, uncomment it to allow simple stemming
-                // System.out.print("Try to stemm it: " + stemmer.stem(word));
+                System.out.print("Try to stemm it: " + stemmer.stem(word));
             }
             System.out.print("\n");
         }
