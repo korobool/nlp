@@ -11,25 +11,37 @@ public class Main {
 
     public static void main(String[] args) {
 
+        // Opening train data file
         if (args.length != 1) {
             System.out.print("Train data file is not specified.");
             System.exit(0);
         }
+        // Create an empty instance of model
         LemmatizerModel lemmatizer = new LemmatizerModel();
 
         // According to task we have to provide a way how to pack the size of model
-        lemmatizer.setCompressionAspect(1.0);
-        lemmatizer.setCollectMode(1);
+        // value can be between 0.3 and 1.0. Only basic ideas of compression are implemented
+        // and quality is strongly dependent on reducing. We have to apply heuristic to make it work better
+        lemmatizer.setCompressionAspect(1);
+
+        //Here we can set the length of lemmas tail (maximum lemmas quantity)
+        //lemmatizer.setCollectMode(1);
 
         // Optional stemmer can be used for cases when model couldn't find any lemma
         RussianPorterStemmer stemmer = new RussianPorterStemmer();
 
+        // Creating parser and perform training action
         new TrainDataParser().LoadData(args[0], lemmatizer);
 
+        // Process user input to show work of this prototype
         while (true) {
+
+            // User input invitation
             System.out.print("input word form >>>");
+            // reading russian word from stdin
             String word = getLine();
 
+            // Get lemma
             ArrayList<String> lemmas = lemmatizer.getLemmas(word);
 
             if (lemmas != null) {
@@ -37,13 +49,14 @@ public class Main {
             }
             else {
                 System.out.print("Unknown word.");
-                // Optional thing, uncomment it to allow simple stemming
-                System.out.print("Try to stemm it: " + stemmer.stem(word));
+                // Optional thing, perform simple stemming
+                System.out.print("Try to stemm it: " + stemmer.do_stemming(word));
             }
             System.out.print("\n");
         }
     }
 
+    // Java-related crap for line-by-line text file reading.
     public static String getLine() {
         java.io.BufferedReader stdin = new java.io.BufferedReader(new java.io.InputStreamReader(System.in));
         String line = null;
