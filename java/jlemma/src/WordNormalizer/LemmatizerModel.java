@@ -13,13 +13,9 @@ import java.util.regex.Pattern;
 // become a bottle neck.
 public class LemmatizerModel {
 
-    private static final int TAIL_CUT_THRESHOLD = 4; // Maximum count of lemmas to return
-    private double compressionAspect = 1; // Reduces the size of model and lemmatization accuracy
-
     private static final Pattern RUSSIAN_WORD = Pattern.compile("[А-Яа-я-]+"); //[\p{IsCyrillic}]  Russian words
 
     private final Map tree = new TreeMap<Character, Object>(); // The root node for prefix tree
-    private int lemmasCount = 0; // Maximum count of lemmas to return. Return only one lemma if exists.
 
     // It is great to store lemmas strings in special container, but Java supports strings pool.
     // Resulting logic will be based on strings pool automatically. So, this is redundant for java.
@@ -37,12 +33,7 @@ public class LemmatizerModel {
         // The actual length of path. By default is equal to length of word
         int tailPosition = wordForm.length();
 
-        // Applying path reducing to make model size smaller (unfortunately quality can be lost)
-        if (this.compressionAspect < 1.0 && tailPosition > this.TAIL_CUT_THRESHOLD) {
-            tailPosition = (int)(tailPosition * this.compressionAspect); // implicit decimal truncation to int
-        }
-
-        // traversing of the leave we're looking for. adding virtual nodes on the fly.
+        // traversing of the leaf we're looking for. adding virtual nodes on the fly.
         for (int index=0; index < tailPosition; index++) {
 
             // Getting corresponding node
@@ -61,8 +52,6 @@ public class LemmatizerModel {
                 node = map;
             }
         }
-
-        // int lemmaIndex = getLemmaIndex(lemma);
 
         // Check is there any lemma for this path and add it if it doesn't exist
         ArrayList<String> word_lemmas = (ArrayList<String> )node.get('#');
@@ -113,24 +102,11 @@ public class LemmatizerModel {
 
             Map<Character, Object> next_node = (Map)node.get(word.charAt(index));
             if (next_node != null) {
-                if (this.lemmasCount > 0) {
-                    ArrayList<String> l = (ArrayList<String>)node.get('#');
-                    if (l != null) {
-                        // Store all available lemmas in the path
-                        word_lemmas.addAll((ArrayList<String>)node.get('#'));
-                    }
-                }
                 // Step down in the depth
                 node = next_node;
             }
             else {
-                if (this.compressionAspect == 1.0)
-                    return null;
-                else {
-                    // if compression is allowed we can use some kind of heuristic to detect actual form. Here is
-                    // naive implementation (heuristic can be based on RussianPorterStemmer class )
-                    return getTail(word_lemmas, word.length());
-                }
+                 return null;
             }
         }
 
@@ -138,51 +114,11 @@ public class LemmatizerModel {
         ArrayList<String> l = (ArrayList<String>)node.get('#');
         if (l != null) {
             word_lemmas.addAll((ArrayList<String>)node.get('#'));
-        };
-
-        if (this.lemmasCount != 0 ) {
-            return getTail(word_lemmas, word.length());
+        }
+        else {
+            return null;
         }
 
         return word_lemmas;
-    }
-
-
-    // In the tree - path we have a lot of lemmas. Here we can apply heuristic to detect closest option(s).
-    private ArrayList<String> getTail(ArrayList<String> word_lemmas, int maxWordLength) {
-        ArrayList<String> tail = new ArrayList<String>();
-        int index = word_lemmas.size() - 1;
-
-        // Here we can apply heuristic analysis to get the most applicable lemma
-        // At hte moment it is naive and imperfect.
-        for (int i = index; tail.size() <= this.lemmasCount || i < 1; i--) {
-
-            String word = word_lemmas.get(i);
-            if (word.length() <= maxWordLength)
-                tail.add(word);
-        }
-        return tail;
-    }
-
-    // Setter for possible compression aspect
-    public void setCompressionAspect(double compressionAspect) {
-        if (compressionAspect > 1.0 || compressionAspect < .3 )
-            return;
-
-        this.compressionAspect = compressionAspect;
-
-        if (compressionAspect == 1.0) {
-            // We have to specify collecting mode
-            this.setCollectMode(0);
-        }
-        else {
-            // We have to specify collecting mode
-            this.setCollectMode(3);
-        }
-    }
-
-    // Sets collecting mode. 0 - do not collect path-lemmas
-    public void setCollectMode(int lemmasCount) {
-        this.lemmasCount = lemmasCount;
     }
 }

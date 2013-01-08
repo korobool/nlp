@@ -19,15 +19,7 @@ public class Main {
         // Create an empty instance of model
         LemmatizerModel lemmatizer = new LemmatizerModel();
 
-        // According to task we have to provide a way how to pack the size of model
-        // value can be between 0.3 and 1.0. Only basic ideas of compression are implemented
-        // and quality is strongly dependent on reducing. We have to apply heuristic to make it work better
-        lemmatizer.setCompressionAspect(1);
-
-        //Here we can set the length of lemmas tail (maximum lemmas quantity)
-        //lemmatizer.setCollectMode(1);
-
-        // Optional stemmer can be used for cases when model couldn't find any lemma
+         // Optional stemmer can be used for cases when model couldn't find any lemma
         RussianPorterStemmer stemmer = new RussianPorterStemmer();
 
         // Creating parser and perform training action
