@@ -1,7 +1,9 @@
 nlp
 ===
 
-See comprehensive description here https://docs.google.com/document/d/1L53E8pcWIoK_6rQNh_3y4hdN-72VeYqsYtiG2gk4aG8/edit
+See comprehensive description here:
+http://korobov-labs.blogspot.com/2013/01/supervised-learning-model-for.html
+http://korobov-labs.blogspot.com/2012/12/blog-post_26.html
 
 Java version supports multi-lemma definition, compression, 
 and OPTIONALLY you can use primitive Porter Stemmer for unknown words.
