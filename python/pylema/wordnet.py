@@ -43,7 +43,7 @@ class word_net:
         self.dawg.add_form(word_form, index)
         # self.dawg.add_form(word_form, lemma)
 
-    def print(self):
+    def print_slf(self):
         pprint(self.dawg.tree)
 
 #        data = json.dumps(self.dawg)

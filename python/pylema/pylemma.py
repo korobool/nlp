@@ -14,4 +14,4 @@ def process_line(line):
 for line in open('lemmas-rus-training.txt'):
     process_line(line)
 
-tier.print()
+tier.print_self()
