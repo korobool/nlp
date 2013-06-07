@@ -1,0 +1,642 @@
+box_soars_skyfall	623
+	1391	Skyfall soars at US box office http://dlvr
+	1392	Skyfall soars at US box office http://dlvr
+	1393	Skyfall soars at US box office http://dlvr
+	1396	Skyfall soars at US box office http://adf
+	1399	Skyfall soars at US box office http://adf
+	1420	Skyfall soars at US box office http://dlvr
+	1421	Skyfall soars at US box office http://dlvr
+	1422	Skyfall soars at US box office http://dlvr
+	1425	Skyfall soars at US box office http://adf
+	1428	Skyfall soars at US box office http://adf
+	1439	Skyfall soars at US box office http://dlvr
+	1440	Skyfall soars at US box office http://dlvr
+	1441	Skyfall soars at US box office http://dlvr
+	1442	Skyfall soars at US box office http://dlvr
+	1444	Skyfall soars at US box office http://dlvr
+	1445	Skyfall soars at US box office http://dlvr
+	1446	Skyfall soars at US box office http://dlvr
+	1447	Skyfall soars at US box office http://dlvr
+	1448	Skyfall soars at US box office http://dlvr
+	1451	Skyfall soars at US box office http://dlvr
+	1461	Skyfall soars at US box office - http://f0rk
+	1467	Skyfall soars at US box office http://dlvr
+	1468	Skyfall soars at US box office http://dlvr
+	1469	Skyfall soars at US box office http://dlvr
+	1470	Skyfall soars at US box office http://dlvr
+	1482	Skyfall soars at US box office - http://f0rk
+	1488	Skyfall soars at US box office http://dlvr
+	1503	Skyfall soars at US box office - http://f0rk
+	1526	Bond&#39;s Skyfall soars at US box office - BBC News http://bit
+	1547	Bond&#39;s Skyfall soars at US box office - BBC News http://bit
+	1555	Skyfall soars at US box office http://dlvr
+	1576	Skyfall soars at US box office http://dlvr
+	1595	#News Skyfall soars at US box office http://dlvr
+	1599	Skyfall soars at US box office http://dlvr
+	1601	Skyfall soars at US box office http://bbc
+	1602	Skyfall soars at US box office http://bbc
+	1603	Skyfall soars at US box office http://dlvr
+	1606	Skyfall soars at US box office http://goo
+	1607	Skyfall soars at US box office http://cfy
+	1617	#News Skyfall soars at US box office http://dlvr
+	1621	Skyfall soars at US box office http://dlvr
+	1623	Skyfall soars at US box office http://bbc
+	1640	#News Skyfall soars at US box office http://dlvr
+	1666	Bond&#39;s Skyfall soars at US box office - BBC News http://goo
+	1682	Skyfall soars at US box office http://dlvr
+	1694	Bond&#39;s Skyfall soars at US box office - BBC News http://goo
+	1703	Skyfall soars at US box office http://nblo
+	1707	Skyfall soars at US box office http://nblo
+	1710	Skyfall soars at US box office http://j
+	1711	Skyfall soars at US box office http://dlvr
+	1726	Skyfall soars at US box office http://nblo
+	1730	Skyfall soars at US box office http://nblo
+	1733	Skyfall soars at US box office http://j
+	1734	Skyfall soars at US box office http://dlvr
+	1739	#BBC - Skyfall soars at US box office http://goo
+	1748	Skyfall soars at US box office http://nblo
+	1757	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	1758	Skyfall soars at US box office http://goo
+	1762	#BBC - Skyfall soars at US box office http://goo
+	1777	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	1778	Skyfall soars at US box office http://goo
+	1780	Skyfall soars at US box office http://dlvr
+	1784	Skyfall soars at US box office http://dlvr
+	1788	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	1789	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	1794	BBC News: Skyfall soars at US box office http://bbc
+	1807	Skyfall soars at US box office http://dlvr
+	1811	Skyfall soars at US box office http://dlvr
+	1815	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	1816	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	1830	Skyfall soars at US box office http://dlvr
+	1831	Skyfall soars at US box office http://dlvr
+	1832	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	1833	Skyfall soars at US box office http://dlvr
+	1834	#AseDeyHOT Skyfall soars at US box office http://dlvr
+	1855	Skyfall soars at US box office http://dlvr
+	1856	Skyfall soars at US box office http://dlvr
+	1985	Bond&#39;s Skyfall soars at US box office - BBC News: BBC NewsBond&#39;s Skyfall soars at US box officeBBC NewsJames Bon
+	2010	Bond&#39;s Skyfall soars at US box office - BBC News: BBC NewsBond&#39;s Skyfall soars at US box officeBBC NewsJames Bon
+	2030	Bond&#39;s Skyfall soars at US box office - BBC News: BBC NewsBond&#39;s Skyfall soars at US box officeBBC NewsJames Bon
+	2067	Skyfall soars at US box office http://dlvr
+	2082	Skyfall soars at US box office http://dlvr
+	2109	Skyfall soars at US box office http://dlvr
+	2145	Skyfall soars at US box office http://dlvr
+	2179	Skyfall soars at US box office http://dlvr
+	2202	Skyfall soars at US box office http://bbc
+	2204	Skyfall soars at US box office http://bbc
+	2205	Skyfall soars at US box office http://bbc
+	2220	Skyfall soars at US box office http://dlvr
+	2222	Skyfall soars at US box office http://bbc
+	2223	Skyfall soars at US box office http://bbc
+	2224	Skyfall soars at US box office http://bbc
+	2226	Skyfall soars at US box office http://bbc
+	2227	Skyfall soars at US box office http://bbc
+	2242	Skyfall soars at US box office http://dlvr
+	2244	Skyfall soars at US box office http://bbc
+	2245	Skyfall soars at US box office http://bbc
+	2246	Skyfall soars at US box office http://bbc
+	2248	Skyfall soars at US box office http://bbc
+	2249	Skyfall soars at US box office http://bbc
+	2256	Skyfall soars at US box office http://bbc
+	2257	Skyfall soars at US box office http://bbc
+	2262	Skyfall soars at US box office http://dlvr
+	2264	Skyfall soars at US box office http://bbc
+	2265	Skyfall soars at US box office http://bbc
+	2269	Bond&#39;s Skyfall soars at US box office - BBC News http://bit
+	2272	Skyfall soars at US box office http://bbc
+	2273	Skyfall soars at US box office http://bbc
+	2278	Skyfall soars at US box office http://dlvr
+	2285	Skyfall soars at US box office http://bbc
+	2290	Bond&#39;s Skyfall soars at US box office - BBC News http://bit
+	2293	Skyfall soars at US box office http://bbc
+	2294	Skyfall soars at US box office http://bbc
+	2297	Skyfall soars at US box office http://bbc
+	2306	Skyfall soars at US box office http://bbc
+	2311	Bond&#39;s Skyfall soars at US box office - BBC News http://bit
+	2314	Skyfall soars at US box office http://bbc
+	2315	Skyfall soars at US box office http://bbc
+	2318	#neuro Skyfall soars at US box office http://dlvr
+	2319	Skyfall soars at US box office http://bbc
+	2321	Skyfall soars at US box office http://bbc
+	2323	Skyfall soars at US box office http://bbc
+	2337	Skyfall soars at US box office http://bbc
+	2339	Skyfall soars at US box office http://bbc
+	2340	Skyfall soars at US box office http://bbc
+	2341	Skyfall soars at US box office http://bbc
+	2344	#neuro Skyfall soars at US box office http://dlvr
+	2345	Skyfall soars at US box office http://bbc
+	2347	Skyfall soars at US box office http://bbc
+	2349	Skyfall soars at US box office http://bbc
+	2356	Skyfall soars at US box office http://bbc
+	2358	Skyfall soars at US box office http://bbc
+	2359	Skyfall soars at US box office http://bbc
+	2360	Skyfall soars at US box office http://bbc
+	2363	#neuro Skyfall soars at US box office http://dlvr
+	2364	Skyfall soars at US box office http://bbc
+	2366	Skyfall soars at US box office http://bbc
+	2368	Skyfall soars at US box office http://bbc
+	2369	Skyfall soars at US box office http://bbc
+	2373	Skyfall soars at US box office http://bbc
+	2380	Skyfall soars at US box office http://bbc
+	2385	Skyfall soars at US box office http://bbc
+	2386	Skyfall soars at US box office http://bbc
+	2391	Skyfall soars at US box office http://bbc
+	2392	Skyfall soars at US box office http://bbc
+	2396	Skyfall soars at US box office http://bbc
+	2408	Skyfall soars at US box office http://bbc
+	2409	Skyfall soars at US box office http://bbc
+	2414	Skyfall soars at US box office http://bbc
+	2415	Skyfall soars at US box office http://bbc
+	2419	Skyfall soars at US box office http://bbc
+	2424	BBC News - Bond&#39;s Skyfall soars at US box office http://bbc
+	2433	Skyfall soars at US box office http://bbc
+	2434	Skyfall soars at US box office http://bbc
+	2439	Skyfall soars at US box office http://bbc
+	2453	BBC News - Bond&#39;s Skyfall soars at US box office http://bbc
+	2506	Skyfall soars at US box office http://dlvr
+	2507	Skyfall soars at US box office http://dlvr
+	2508	Skyfall soars at US box office http://dlvr
+	2509	#BBC Skyfall soars at US box office http://dlvr
+	2512	BBC : Skyfall soars at US box office http://dlvr
+	2515	#AdityaRamadana Skyfall soars at US box office http://dlvr
+	2516	Skyfall soars at US box office http://dlvr
+	2531	Skyfall soars at US box office http://dlvr
+	2532	Skyfall soars at US box office http://dlvr
+	2533	Skyfall soars at US box office http://dlvr
+	2534	#BBC Skyfall soars at US box office http://dlvr
+	2537	BBC : Skyfall soars at US box office http://dlvr
+	2540	Entertaintment- Skyfall soars at US box office http://goo
+	2543	Skyfall soars at US box office http://goo
+	2548	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	2549	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	2550	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	2551	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	2552	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	2561	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	2562	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	2563	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	2564	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	2565	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	2569	Entertaintment- Skyfall soars at US box office http://goo
+	2572	Skyfall soars at US box office http://goo
+	2585	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	2586	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	2587	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	2588	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	2589	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	2606	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	2740	Skyfall soars at US box office but &#39;Casino Royale&#39; remains my all time fav bond movie ~ http://bbc
+	2755	Skyfall soars at US box office but &#39;Casino Royale&#39; remains my all time fav bond movie ~ http://bbc
+	2767	#News Skyfall soars at US box office http://goo
+	2791	#News Skyfall soars at US box office http://goo
+	2793	Skyfall soars at US box office http://dlvr
+	2814	Skyfall soars at US box office http://dlvr
+	2836	Bond&#39;s Skyfall soars at US box office - BBC News: BBC NewsBond&#39;s Skyfall soars at US box officeBBC NewsJames Bon
+	2845	Skyfall soars at US box office http://dlvr
+	2865	Bond&#39;s Skyfall soars at US box office - BBC News: BBC NewsBond&#39;s Skyfall soars at US box officeBBC NewsJames Bon
+	2875	Bond&#39;s Skyfall soars at US box office - BBC News: BBC NewsBond&#39;s Skyfall soars at US box offi
+	2889	Skyfall soars at US box office http://bit
+	2890	Bond&#39;s Skyfall soars at US box office - BBC News: BBC NewsBond&#39;s Skyfall soars at US box officeBBC NewsJames Bon
+	2900	Bond&#39;s Skyfall soars at US box office - BBC News: BBC NewsBond&#39;s Skyfall soars at US box offi
+	2915	Skyfall soars at US box office http://bit
+	2916	Bond&#39;s Skyfall soars at US box office - BBC News: BBC NewsBond&#39;s Skyfall soars at US box officeBBC NewsJames Bon
+	2941	Skyfall soars at US box office http://dlvr
+	2946	BBC News - Bond&#39;s Skyfall soars at US box office http://bbc
+	2947	Skyfall soars at US box office http://dlvr
+	2948	Skyfall soars at US box office http://dlvr
+	2951	Skyfall soars at US box office http://dlvr
+	2969	Skyfall soars at US box office http://dlvr
+	2974	BBC News - Bond&#39;s Skyfall soars at US box office http://bbc
+	2975	Skyfall soars at US box office http://dlvr
+	2976	Skyfall soars at US box office http://dlvr
+	2979	Skyfall soars at US box office http://dlvr
+	2996	Skyfall soars at US box office http://dlvr
+	3086	Bond&#39;s Skyfall soars at US box office - BBC News: BBC NewsBond&#39;s Skyfall soars at US box officeBBC NewsJames Bon
+	3097	DTN Italy: Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3115	Bond&#39;s Skyfall soars at US box office - BBC News: BBC NewsBond&#39;s Skyfall soars at US box officeBBC NewsJames Bon
+	3121	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3123	Skyfall soars at US box office http://bit
+	3124	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3127	DTN Italy: Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3147	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3149	Skyfall soars at US box office http://bit
+	3150	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3154	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3155	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3158	BBC: Skyfall soars at US box office http://bbc
+	3171	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3173	Skyfall soars at US box office http://bbc
+	3175	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3177	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3181	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3182	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3185	BBC: Skyfall soars at US box office http://bbc
+	3187	Mostofa hasan Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3188	#TweetOTOMATIS | Skyfall soars at US box office http://bbc
+	3189	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3191	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3193	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3196	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3197	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3199	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3200	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3201	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3202	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3204	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3206	Skyfall soars at US box office http://bbc
+	3208	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3209	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3210	#News Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3211	BBC News UK Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3212	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3214	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3217	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3219	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3220	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3221	Mostofa hasan Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3222	#TweetOTOMATIS | Skyfall soars at US box office http://bbc
+	3223	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3225	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3228	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3229	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3231	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3233	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3236	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3243	Skyfall soars at US box office http://dlvr
+	3246	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3247	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3250	#TeamFollowBack Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3253	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3255	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3258	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3259	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3260	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3265	#newsupdate Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3269	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3272	Skyfall soars at US box office http://bbc
+	3274	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3276	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3278	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3279	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3282	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3285	#NewsUpdate Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3286	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3287	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3290	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3292	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3293	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3294	NewsBBC: Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3297	BBC News: Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3302	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3303	#news Skyfall soars at US box office http://bbc
+	3304	Skyfall soars at US box office http://bbc
+	3306	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3308	Skyfall soars at US box office http://bbc
+	3310	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3312	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3314	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3315	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3323	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3324	NewsBBC: Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3327	BBC News: Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3332	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3350	#lyonsddd Bond&#39;s Skyfall soars at US box office - BBC News: BBC NewsBond&#39;s Skyfall soars at US box off
+	3370	#lyonsddd Bond&#39;s Skyfall soars at US box office - BBC News: BBC NewsBond&#39;s Skyfall soars at US box off
+	3393	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3394	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3419	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3420	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3438	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3439	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3481	Skyfall soars at US box office http://cfy
+	3488	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3492	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3494	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3497	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3498	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3499	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3500	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3502	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3503	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3504	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3505	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3506	Skyfall soars at US box office http://awe
+	3507	Arts/Entertainment Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3508	#Tolkien #News Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3509	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3510	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3511	Skyfall soars at US box office http://adf
+	3512	#Entertainment Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3514	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3515	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3516	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3517	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3521	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3522	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3523	Skyfall soars at US box office http://bbc
+	3524	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3527	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3528	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3530	BBCIEA Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3531	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3532	Skyfall soars at US box office http://bbc
+	3533	Skyfall soars at US box office
+
+	3535	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3536	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3539	Skyfall soars at US box office http://dlvr
+	3547	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3548	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3549	Skyfall soars at US box office http://bbc
+	3550	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3553	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3563	Skyfall soars at US box office http://dlvr
+	3660	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3681	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3705	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3742	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3743	 Skyfall soars at US box office - James Bond&#39;s Skyfall takes a record $87
+	3744	Skyfall soars at US box office http://dlvr
+	3745	Skyfall soars at US box office http://dlvr
+	3746	Skyfall soars at US box office http://dlvr
+	3747	Skyfall soars at US box office http://dlvr
+	3771	Skyfall soars at US box office http://ow
+	3775	#News Skyfall soars at US box office http://dlvr
+	3776	Skyfall soars at US box office http://dlvr
+	3777	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3778	 Skyfall soars at US box office - James Bond&#39;s Skyfall takes a record $87
+	3779	Skyfall soars at US box office http://dlvr
+	3780	Skyfall soars at US box office http://dlvr
+	3781	Skyfall soars at US box office http://dlvr
+	3782	Skyfall soars at US box office http://dlvr
+	3784	#teamfollowback Skyfall soars at US box office - James Bond&#39;s Skyfall takes a record $87
+	3796	Skyfall soars at US box office http://ow
+	3800	#News Skyfall soars at US box office http://dlvr
+	3801	Skyfall soars at US box office http://dlvr
+	3802	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	3803	 Skyfall soars at US box office - James Bond&#39;s Skyfall takes a record $87
+	3809	#teamfollowback Skyfall soars at US box office - James Bond&#39;s Skyfall takes a record $87
+	3821	Skyfall soars at US box office http://ow
+	3826	Skyfall soars at US box office http://bbc
+	3827	Skyfall soars at US box office http://smrd
+	3829	Skyfall soars at US box office http://bit
+	3852	Skyfall soars at US box office http://bbc
+	3853	Skyfall soars at US box office http://smrd
+	3855	Skyfall soars at US box office http://bit
+	3862	Skyfall soars at US box office http://dlvr
+	3864	Skyfall soars at US box office - James Bond&#39;s Skyfall takes a record $87
+	3865	RT @dj_giand2012#teamfollowback Skyfall soars at US box office - James Bond&#39;s Skyfall takes a record $87
+	3868	Skyfall soars at US box office http://dlvr
+	3878	Skyfall soars at US box office http://bbc
+	3888	Skyfall soars at US box office http://dlvr
+	3890	Skyfall soars at US box office - James Bond&#39;s Skyfall takes a record $87
+	3891	RT @dj_giand2012#teamfollowback Skyfall soars at US box office - James Bond&#39;s Skyfall takes a record $87
+	3894	Skyfall soars at US box office http://dlvr
+	3922	Skyfall soars at US box office http://dlvr
+	3930	Skyfall soars at US box office - James Bond&#39;s Skyfall takes a record $87
+	3935	Slik News: Skyfall soars at US box office - James Bond&#39;s Skyfall takes a record $87
+	3961	Skyfall soars at US box office - James Bond&#39;s Skyfall takes a record $87
+	3966	Slik News: Skyfall soars at US box office - James Bond&#39;s Skyfall takes a record $87
+	4053	Skyfall soars at US box office http://adf
+	4054	Skyfall soars at US box office http://dlvr
+	4057	Skyfall soars at US box office http://dlvr
+	4081	Skyfall soars at US box office http://adf
+	4082	Skyfall soars at US box office http://dlvr
+	4085	Skyfall soars at US box office http://dlvr
+	4088	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	4107	Skyfall soars at US box office http://adf
+	4114	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	4127	Skyfall soars at US box office http://dlvr
+	4142	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	4150	Skyfall soars at US box office http://dlvr
+	4152	Skyfall soars at US box office http://dlvr
+	4153	Skyfall soars at US box office http://dlvr
+	4154	Skyfall soars at US box office http://dlvr
+	4156	Skyfall soars at US box office http://dlvr
+	4157	Skyfall soars at US box office http://dlvr
+	4158	Skyfall soars at US box office http://dlvr
+	4170	Bond’s Skyfall soars at US box office – BBC News http://dlvr
+	4179	Skyfall soars at US box office http://dlvr
+	4181	Skyfall soars at US box office http://dlvr
+	4182	Skyfall soars at US box office http://dlvr
+	4183	Skyfall soars at US box office http://dlvr
+	4185	Skyfall soars at US box office http://dlvr
+	4186	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	4192	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	4197	Bond’s Skyfall soars at US box office – BBC News http://dlvr
+	4211	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	4217	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	4235	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	4783	Skyfall soars at US box office http://dlvr
+	4800	Skyfall soars at US box office http://dlvr
+	4811	Skyfall soars at US box office http://dlvr
+	4819	Skyfall soars at US box office http://bbc
+	4825	Skyfall soars at US box office http://dlvr
+	4845	Skyfall soars at US box office http://bbc
+	4906	BBC News - Home: Skyfall soars at US box office: BBC News - Home The 
+	4907	BBC News - Home: Skyfall soars at US box office: BBC News - Home The 
+	4908	BBC News - Home: Skyfall soars at US box office: BBC News - Home The 
+	4909	BBC News - Home: Skyfall soars at US box office: BBC News - Home The 
+	4912	BBC News - Home: Skyfall soars at US box office: BBC News - Home The 
+	4913	BBC News - Home: Skyfall soars at US box office: BBC News - Home The 
+	4914	BBC News - Home: Skyfall soars at US box office: BBC News - Home The 
+	4945	Skyfall soars at US box office http://gd
+	4962	Skyfall soars at US box office http://gd
+	4983	Skyfall soars at US box office http://gd
+	4990	BBC News - Home: Skyfall soars at US box office: BBC News - Home The 
+	4991	BBC News - Home: Skyfall soars at US box office: BBC News - Home The 
+	4992	BBC News - Home: Skyfall soars at US box office: BBC News - Home The 
+	4993	BBC News - Home: Skyfall soars at US box office: BBC News - Home The 
+	4994	BBC News - Home: Skyfall soars at US box office: BBC News - Home The 
+	4995	BBC News - Home: Skyfall soars at US box office: BBC News - Home The 
+	4996	BBC News - Home: Skyfall soars at US box office: BBC News - Home The 
+	5015	BBC News - Home: Skyfall soars at US box office: BBC News - Home The 
+	5016	BBC News - Home: Skyfall soars at US box office: BBC News - Home The 
+	5017	BBC News - Home: Skyfall soars at US box office: BBC News - Home The 
+	5018	BBC News - Home: Skyfall soars at US box office: BBC News - Home The 
+	5019	BBC News - Home: Skyfall soars at US box office: BBC News - Home The 
+	5020	BBC News - Home: Skyfall soars at US box office: BBC News - Home The 
+	5021	BBC News - Home: Skyfall soars at US box office: BBC News - Home The 
+	5090	Skyfall soars at US box office
+
+	5091	Skyfall soars at US box office
+
+	5092	Skyfall soars at US box office
+
+	5093	Skyfall soars at US box office
+
+	5094	Skyfall soars at US box office
+
+	5095	Skyfall soars at US box office
+
+	5119	Skyfall soars at US box office
+
+	5120	Skyfall soars at US box office
+
+	5121	Skyfall soars at US box office
+
+	5122	Skyfall soars at US box office
+
+	5123	Skyfall soars at US box office
+
+	5124	Skyfall soars at US box office
+
+	5131	Entertainment News: Skyfall soars at US box office http://dlvr
+	5162	Entertainment News: Skyfall soars at US box office http://dlvr
+	5209	Skyfall soars at US box office
+
+	5230	Skyfall soars at US box office
+
+	5253	Skyfall soars at US box office
+
+	5353	#TopNews Skyfall soars at US box office http://goo
+	5371	#TopNews Skyfall soars at US box office http://goo
+	5522	BBC News - Bond&#39;s Skyfall soars at US box office http://bbc
+	5548	BBC News - Bond&#39;s Skyfall soars at US box office http://bbc
+	6117	ca: Bond&#39;s Skyfall soars at US box office http://updatednews
+	6141	ca: Bond&#39;s Skyfall soars at US box office http://updatednews
+	6950	:: Skyfall soars at US box office http://bbc
+	6974	:: Skyfall soars at US box office http://bbc
+	7368	World : Skyfall soars at US box office http://goo
+	7381	World : Skyfall soars at US box office http://goo
+	7406	World : Skyfall soars at US box office http://goo
+	7646	#Google #Hot #Trend Skyfall soars at US box office http://dlvr
+	7647	#Hot #Trend Skyfall soars at US box office
+
+	7676	#Google #Hot #Trend Skyfall soars at US box office http://dlvr
+	7762	Skyfall soars with record US debut: James Bond&#39;s Skyfall has extended its worldwide box office rule to N
+	7793	Skyfall soars with record US debut: James Bond&#39;s Skyfall has extended its worldwide box office rule to N
+	8411	Bond&#39;s Skyfall soars at US box office http://bbc
+	8439	Bond&#39;s Skyfall soars at US box office http://bbc
+	8577	Bond&#39;s Skyfall soars at US box office http://bbc
+	8599	Bond&#39;s Skyfall soars at US box office http://bbc
+	8870	Skyfall soars at US box office http://dlvr
+	8905	Skyfall: James Bond soars to box office record: James Bond can don the tuxedo and break out the Dom Perignon aft
+	8935	Skyfall: James Bond soars to box office record: James Bond can don the tuxedo and break out the Dom Perignon aft
+	9135	#Google #Hot #Trend Skyfall soars at US box office http://dlvr
+	9164	#Google #Hot #Trend Skyfall soars at US box office http://dlvr
+	9428	Skyfall soars at US box office http://dlvr
+	9458	Skyfall soars at US box office http://dlvr
+	9461	Skyfall soars with record US debut: James Bond&#39;s Skyfall has extended its worldwide box office rule to North Ame
+	9482	Skyfall soars with record US debut: James Bond&#39;s Skyfall has extended its worldwide box office rule to North Ame
+	9502	Skyfall soars with record US debut: James Bond&#39;s Skyfall has extended its worldwide box office rule to North Ame
+	9915	Skyfall soars at US box office - http://bbc
+	9938	Skyfall soars at US box office - http://bbc
+	10269	Skyfall soars at US box office http://www
+	10294	Skyfall soars at US box office http://www
+	10319	Skyfall soars at US box office http://www
+	10914	BBC News - Bond&#39;s Skyfall soars at US box office http://bbc
+	10942	BBC News - Bond&#39;s Skyfall soars at US box office http://bbc
+	11152	Skyfall: James Bond soars to box office record http://dlvr
+	11178	Skyfall: James Bond soars to box office record http://dlvr
+	11598	Skyfall: James Bond soars to box office record Mon, 12 Nov 2012 16:31:11 +0530 http://www
+	11961	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	11965	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	11989	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	11993	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	12282	Skyfall: James Bond soars to box office record — http://ibnlive
+	12301	Skyfall: James Bond soars to box office record — http://ibnlive
+	12757	Skyfall: James Bond soars to box office record — http://ibnlive
+	12786	Skyfall: James Bond soars to box office record — http://ibnlive
+	14087	I now want to watch it: BBC News - Bond&#39;s Skyfall soars at US box office http://www
+	14117	I now want to watch it: BBC News - Bond&#39;s Skyfall soars at US box office http://www
+	15179	Skyfall soars at US box office http://www
+	15211	Skyfall soars at US box office http://www
+	15223	Skyfall soars with record US debut: James Bond’s Skyfall has extended its worldwide box office rule to North Ame
+	15225	Skyfall soars with record US debut: James Bond’s Skyfall has extended its worldwide box office rule to North Ame
+	15250	Skyfall soars with record US debut: James Bond’s Skyfall has extended its worldwide box office rule to North Ame
+	16856	BBC News - Bond&#39;s Skyfall soars at US box office http://bbc
+	16882	BBC News - Bond&#39;s Skyfall soars at US box office http://bbc
+	19331	BBC News - Bond&#39;s Skyfall soars at US box office http://www
+	19671	BBC News - Bond&#39;s Skyfall soars at US box office http://bbc
+	19930	Bond&#39;s Skyfall soars at US box office http://bbc
+	19955	Bond&#39;s Skyfall soars at US box office http://bbc
+	21323	Skyfall soars at US box office http://artistdata
+	21355	Skyfall soars at US box office http://artistdata
+	21396	Eleven Squares: Skyfall soars at US box office http://artistdata
+	21830	#Google #Hot #Trend Skyfall soars at US box office http://dlvr
+	21854	#Google #Hot #Trend Skyfall soars at US box office http://dlvr
+	23019	Skyfall: James Bond soars to box office record http://bit
+	23044	Skyfall: James Bond soars to box office record http://bit
+	23638	Skyfall soars at US box office http://buff
+	23920	BBC News - Bond&#39;s Skyfall soars at US box office http://bbc
+	27784	Skyfall soars at US box office http://dlvr
+	27787	Skyfall soars at US box office http://dlvr
+	28191	BBC News - Bond&#39;s Skyfall soars at US box office http://bbc
+	28218	BBC News - Bond&#39;s Skyfall soars at US box office http://bbc
+	28333	Skyfall soars to box office record http://feedproxy
+	28541	RT @jaschawrites BBC News - Bond&#39;s Skyfall soars at US box office http://bbc
+	29009	BBC News - Bond&#39;s Skyfall soars at US box office http://m
+	29034	BBC News - Bond&#39;s Skyfall soars at US box office http://m
+	29225	Skyfall soars at US box office http://dlvr
+	29226	Skyfall soars at US box office http://dlvr
+	29612	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	29614	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	29616	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	29618	BBC News - Bond&#39;s Skyfall soars at US box office http://bbc
+	29640	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	29642	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	29644	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	29646	BBC News - Bond&#39;s Skyfall soars at US box office http://bbc
+	29751	Skyfall soars at US box office http://cfy
+	29842	#news &gt;&gt; Skyfall soars at US box office http://adf
+	29873	#news &gt;&gt; Skyfall soars at US box office http://adf
+	29921	Skyfall soars at US box office - http://f0rk
+	29948	Skyfall soars at US box office - http://f0rk
+	30217	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	30245	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	30348	BBC News - Bond&#39;s Skyfall soars at US box office http://bbc
+	30349	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	30364	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	30367	Skyfall soars at US box office http://bbc
+	30368	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	30383	BBC News - Bond&#39;s Skyfall soars at US box office http://bbc
+	30384	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	30438	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	30440	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	30444	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	30446	Skyfall soars at US box office http://awe
+	30460	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	30468	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	30470	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	30478	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	30482	#OPENFOLLOW Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	30489	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	30497	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	30514	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	30518	#OPENFOLLOW Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	30860	Skyfall soars at US box office http://bbc
+	30863	UK&nbsp; Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	30878	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	30880	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	30883	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	30885	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	30893	BBCnews: Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	30895	#folyB Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	30899	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	30903	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	30910	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	30915	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	30919	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	30921	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	30927	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	30929	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	30939	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	30952	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	30954	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	31225	Skyfall soars at US box office http://www
+	32009	Skyfall soars at US box office http://bbc
+	33558	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	33710	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	33730	Skyfall soars at US box office: James Bond&#39;s Skyfall takes a record $87
+	33985	Skyfall soars at US box office http://cfy
+	34155	#WorldGhana Bond’s Skyfall soars at US box office http://goo
+	34195	Bond’s Skyfall soars at US box office http://nblo
+	34210	Bond’s Skyfall soars at US box office http://nblo
+	34213	Bond’s Skyfall soars at US box office http://nblo
+	35602	BBC News - Bond&#39;s Skyfall soars at US box office http://m
+	35625	BBC News - Bond&#39;s Skyfall soars at US box office http://m
+	35897	Bond&#39;s Skyfall soars at US box office 
+

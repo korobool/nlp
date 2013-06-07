@@ -1,0 +1,72 @@
+$ python unsupervisedClassifier.py blogs-1-100.txt skyfall.txt strict
+filtering irrelevant words...
+loading file: 2%
+loading file: 20%
+loading file: 40%
+loading file: 60%
+loading file: 80%
+loading file: 100%
+loading file: 0%
+loading file: 20%
+loading file: 40%
+loading file: 60%
+loading file: 80%
+loading file: 100%
+done.
+computing noise...
+done.
+from 18:23:9:32 to 18:23:9:51, runtime was 0 days, 0 hours, 0 minutes and 19 seconds
+----- completed stage 0 ----- (=)
+extracting relevant words...
+done.
+loading inputs...
+from 18:23:9:32 to 18:23:9:51, runtime was 0 days, 0 hours, 0 minutes and 19 seconds
+----- completed stage 1 -----
+segmenting file: 0%
+segmenting file: 20%
+segmenting file: 40%
+segmenting file: 60%
+segmenting file: 80%
+segmenting file: 100%
+from 18:23:9:51 to 18:23:9:54, runtime was 0 days, 0 hours, 0 minutes and 3 seconds
+----- completed stage 2 -----
+from 18:23:9:54 to 18:23:9:54, runtime was 0 days, 0 hours, 0 minutes and 0 seconds
+----- completed stage 3 -----
+calculating random trigrams...
+generating n-grams: 0%
+generating n-grams: 20%
+generating n-grams: 40%
+generating n-grams: 60%
+generating n-grams: 80%
+generating n-grams: 100%
+calculating n-gram frequencies: 0%
+calculating n-gram frequencies: 20%
+calculating n-gram frequencies: 40%
+calculating n-gram frequencies: 60%
+calculating n-gram frequencies: 80%
+calculating n-gram frequencies: 100%
+done.
+clustering...
+from 18:23:9:54 to 18:23:9:56, runtime was 0 days, 0 hours, 0 minutes and 2 seconds
+----- completed stage 4 -----
+24361 initial vectors, 2065 initial feature sets
+clustering: 24361 remaining sentence vectors, 2065 remaining feature sets - 0%
+clustering: 24361 remaining sentence vectors, 1655 remaining feature sets - 20%
+clustering: 24361 remaining sentence vectors, 1242 remaining feature sets - 40%
+clustering: 24361 remaining sentence vectors, 829 remaining feature sets - 60%
+clustering: 24361 remaining sentence vectors, 416 remaining feature sets - 80%
+clustering: 24361 remaining sentence vectors, 3 remaining feature sets - 100%
+from 18:23:9:56 to 18:23:10:19, runtime was 0 days, 0 hours, 0 minutes and 23 seconds
+----- completed stage 5 -----
+from 18:23:10:19 to 18:23:10:19, runtime was 0 days, 0 hours, 0 minutes and 0 seconds
+----- completed stage 6 -----
+2065 incoming clusters and...
+... 33 outgoing clusters.
+from 18:23:10:19 to 18:23:10:19, runtime was 0 days, 0 hours, 0 minutes and 0 seconds
+----- completed stage 7 -----
+from 18:23:9:32 to 18:23:10:19, runtime was 0 days, 0 hours, 0 minutes and 47 seconds
+----- completed main stages ----- (=)
+33 non-zero positive clusters for 43507 documents
+149 average cluster size
+----- saved ----- (=)
+from 18:23:9:32 to 18:23:10:19, runtime was 0 days, 0 hours, 0 minutes and 47 seconds

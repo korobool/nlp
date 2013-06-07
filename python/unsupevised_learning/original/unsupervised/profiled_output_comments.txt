@@ -1,0 +1,20 @@
+In the file "profiled_output.txt" you can see:
+
+1) command to launch the algorithm:
+
+"python unsupervisedClassifier.py blogs-1-100.txt skyfall.txt strict"
+
+"python unsupervisedClassifier.py FILE1 FILE2 strict"
+
+As we already discussed the day you came to the office, the documents in FILE2 are the documents that will be classified; FILE1 is only used to create the language model (that is, to extract the stopwords, the irrelevant words which are too frequent and must be excluded from the classification).
+
+
+2) The different stages of the process and how long they take. For instance, let's focus on the line that says "----- completed stage 0 ----- (=)".
+
+The previous line says "from 18:23:9:32 to 18:23:9:51, runtime was 0 days, 0 hours, 0 minutes and 19 seconds". If you look at the code (file "unsupervisedClassifier.py"), you can see that the function "computeNoise(background, foreground)" was run right before. So, according to the time recorded in the file "profiled_output.txt", that function took 19 seconds.
+
+If you run the current code, you'll get the same output.
+
+3) According to the time measurements, the functions that take longer are computeNoise() and clusterize(). I think clusterize() will always take a long time but computeNoise() should be faster, I think you should be able to optimize it a lot. Feel free to make any changes that you consider necessary :-)
+
+4) When you came to the office we didn't have time to look in depth at some other functions, particularly purge(). I assume you'll be able to read the code and understand what it does but, of course, let me know if you have any questions :-)
